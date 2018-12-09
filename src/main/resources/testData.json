@@ -1,0 +1,12 @@
+{
+ "firstName"      : "firstName",
+ "lastName"       : "lastName",
+ "streetAddress"  : "streetAddress",
+ "zipCode"        : "zipCode",
+ "cityAndState"   : "cityAndState",
+ "primaryPhone"   : "primaryPhone",
+ "type"           : "type",
+ "eamilAddress"   : "eamilAddress",
+ "ssn"            : "ssn",
+ "dob"            : "dob"
+}
